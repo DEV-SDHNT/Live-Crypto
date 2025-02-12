@@ -13,4 +13,5 @@
 
 ---
 #### Run:
-    python3 main.py
+    python3 main.py (Linux/Mac) 
+    py main.py (Windows)
