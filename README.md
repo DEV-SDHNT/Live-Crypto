@@ -15,5 +15,3 @@
 #### Run:
     python3 main.py (Linux/Mac) 
     py main.py (Windows)
-
-Will try to make a Flask App to Show it Live with a Minimal React Frontend !?
